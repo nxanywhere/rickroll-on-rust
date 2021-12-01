@@ -1,6 +1,5 @@
 # rickroll-on-rust
-![](https://c.tenor.com/x8v1oNUOmg4AAAAC/rickroll-roll.gif)
-Enjoy it!!!!!
+![](https://i.imgur.com/aKaOqIh.gif)
 
 ## Programming Language
 - Rust
