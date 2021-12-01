@@ -1,4 +1,5 @@
 # rickroll-on-rust
+![RickRolllllll](https://c.tenor.com/x8v1oNUOmg4AAAAC/rickroll-roll.gif)
 Enjoy it!!!!!
 
 ## Programming Language
